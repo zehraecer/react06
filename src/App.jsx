@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-
+      <h6>selam</h6>
     </>
   )
 }
